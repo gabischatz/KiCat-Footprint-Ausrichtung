@@ -59,7 +59,7 @@ is always in the middle of the footprint. Also note the X and Y values in the pi
   <img src="img/PolarkoordinatenKiCad30°.png"
   		alt="30°"
 		  title="please click to enlarge"
-		  style="width: 50%;" /></dt>
+		  style="width: 70%;" /></dt>
 <dd>In the first example, the second pad moves exactly 30° up. To do this, highlight 
 the footprint and press the "<b>E</b>" key for self-switching. Left Below is the Alignment section. 
 	There you enter 30 in the Other field. Click on "<b>OK</b>" to save the rotation..</dd>
@@ -83,7 +83,7 @@ the footprint and press the "<b>E</b>" key for self-switching. Left Below is the
   		alt="180°"
 		  title="please click to enlarge"
 		  style="width: 70%;" /></dt>
-<dd>A 180° rotation can be achieved by repeatedly pressing the "R" key.</dd>
+<dd>A 180° rotation can be achieved by repeatedly pressing the "<b>R</b>" key.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad-150°.png"
@@ -97,7 +97,7 @@ the footprint and press the "<b>E</b>" key for self-switching. Left Below is the
   		alt="-90°"
 		  title="please click to enlarge"
 		  style="width: 70%;" /></dt>
-<dd>A -90° rotation can be achieved by pressing the "R" key three times.</dd>
+<dd>A -90° rotation can be achieved by pressing the "<b>R</b>" key three times.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad-30°.png"
