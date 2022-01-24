@@ -51,30 +51,32 @@ faces and phones still had dials; it can be considered accepted.
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad0°.png"
   		alt="0°"
-		  title="please click to enlarge"
-		  style="width: 50%;" /></dt>
-<dd></dd>
+		  title="please click to enlarge" /></dt>
+<dd>If you look at the next pictures you will notice that the center point (yellow) 
+is always in the middle of the footprint. Also note the X and Y values in the pictures.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad30°.png"
   		alt="30°"
 		  title="please click to enlarge"
 		  style="width: 50%;" /></dt>
-<dd></dd>
+<dd>In the first example, the second pad moves exactly 30° up. To do this, highlight 
+the footprint and press the "E" key for self-switching. Left Below is the Alignment section. 
+	There you enter 30 in the Other field. Click on "OK" to save the rotation..</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad90°.png"
   		alt="90°"
 		  title="please click to enlarge"
 		  style="width: 50%;" /></dt>
-<dd></dd>
+<dd>A 90° rotation can also be achieved by pressing the "R" key.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad150°.png"
   		alt="150°"
 		  title="please click to enlarge"
 		  style="width: 50%;" /></dt>
-<dd></dd>
+<dd>You can achieve a 150° rotation by entering 150 in the field below.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad180°.png"
