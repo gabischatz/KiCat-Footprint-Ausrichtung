@@ -18,8 +18,8 @@ with the problem, how is this solved in KiCad?</dd>
 		 style="width:80%;" />
   </dt>
   <dt style="text-align: left;">Angle as a difference in direction</dt>
-<dd style="text-align: left;">We are familiar with angles from planar geometry, in particular
-from the calculation of triangles.
+<dd style="text-align: left;">We are familiar with angles from planar geometry, 
+in particular from the calculation of triangles.
 <br />
 An angle is the difference in direction between two rays (the sides of the angle)
 that emanate from a common starting point (the vertex of the angle).
@@ -61,8 +61,8 @@ is always in the middle of the footprint. Also note the X and Y values in the pi
 		  title="please click to enlarge"
 		  style="width: 50%;" /></dt>
 <dd>In the first example, the second pad moves exactly 30° up. To do this, highlight 
-the footprint and press the "E" key for self-switching. Left Below is the Alignment section. 
-	There you enter 30 in the Other field. Click on "OK" to save the rotation..</dd>
+the footprint and press the "<b>E</b>" key for self-switching. Left Below is the Alignment section. 
+	There you enter 30 in the Other field. Click on "<b>OK</b>" to save the rotation..</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad90°.png"
