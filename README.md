@@ -68,42 +68,42 @@ the footprint and press the "<b>E</b>" key for self-switching. Left Below is the
   <img src="img/PolarkoordinatenKiCad90°.png"
   		alt="90°"
 		  title="please click to enlarge"
-		  style="width: 50%;" /></dt>
-<dd>A 90° rotation can also be achieved by pressing the "R" key.</dd>
+		  style="width: 70%;" /></dt>
+<dd>A 90° rotation can also be achieved by pressing the "<b>R</b>" key.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad150°.png"
   		alt="150°"
 		  title="please click to enlarge"
-		  style="width: 50%;" /></dt>
-<dd>You can achieve a 150° rotation by entering 150 in the field below.</dd>
+		  style="width: 70%;" /></dt>
+<dd>You can achieve a rotation of 150° by entering 150 for 30° as above.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad180°.png"
   		alt="180°"
 		  title="please click to enlarge"
-		  style="width: 50%;" /></dt>
-<dd></dd>
+		  style="width: 70%;" /></dt>
+<dd>A 180° rotation can be achieved by repeatedly pressing the "R" key.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad-150°.png"
   		alt="-150°"
 		  title="please click to enlarge"
-		  style="width: 50%;" /></dt>
-<dd></dd>
+		  style="width: 70%;" /></dt>
+<dd>You can achieve -150° rotation by typing -150 as explained above.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad-90°.png"
   		alt="-90°"
 		  title="please click to enlarge"
-		  style="width: 50%;" /></dt>
-<dd></dd>
+		  style="width: 70%;" /></dt>
+<dd>A -90° rotation can be achieved by pressing the "R" key three times.</dd>
 </dl>
 <dl style="text-align: center;"><dt>
   <img src="img/PolarkoordinatenKiCad-30°.png"
   		alt="-30°"
 		  title="please click to enlarge"
-		  style="width: 50%;" /></dt>
+		  style="width: 70%;" /></dt>
 <dd></dd>
 </dl>
 </article>
